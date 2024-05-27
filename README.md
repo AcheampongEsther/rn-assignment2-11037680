@@ -1,7 +1,11 @@
  # Mobile Application Development Assignment 2
 
- Student ID: 11037680
+Student ID: 11037680
 
+ # Screenshot:
+![image_2024-05-26_16-50-22](https://github.com/AcheampongEsther/rn-assignment2-11037680/assets/124188604/60007e15-eba6-49bf-8530-cacd75b93910)
+
+ 
  # Tasks Overview 
 
 # Getting Started with Create React App
